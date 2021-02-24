@@ -1,0 +1,149 @@
+2020-11-20 11:30:33,013 - BullhornTest -INFO - ******** opening homepage *********
+2020-11-20 11:30:43,387 - BullhornTest -INFO - ******** homepage Opened *********
+2020-11-20 11:30:44,282 - BullhornTest -INFO - ******** Chapter1 Clicked *********
+2020-11-20 11:30:44,286 - BullhornTest -INFO - ******** Verifying Text present *********
+2020-11-20 11:30:44,810 - BullhornTest -INFO - ******** Back to Homepage *********
+2020-11-20 11:35:01,559 - BullhornTest -INFO - ******** opening homepage *********
+2020-11-20 11:35:10,856 - BullhornTest -INFO - ******** homepage Opened *********
+2020-11-20 11:35:11,868 - BullhornTest -INFO - ******** Chapter1 Clicked *********
+2020-11-20 11:35:11,870 - BullhornTest -INFO - ******** Verifying Text present *********
+2020-11-20 11:35:12,435 - BullhornTest -INFO - ******** Back to Homepage *********
+2020-11-20 11:43:39,940 - BullhornTest -INFO - ******** opening homepage *********
+2020-11-20 11:43:49,206 - BullhornTest -INFO - ******** homepage Opened *********
+2020-11-20 11:43:50,108 - BullhornTest -INFO - ******** Chapter1 Clicked *********
+2020-11-20 11:43:50,111 - BullhornTest -INFO - ******** Verifying Text present *********
+2020-11-20 11:43:50,638 - BullhornTest -INFO - ******** Back to Homepage *********
+2021-01-20 17:34:28,626 - BullhornTest -INFO - ******** Hitting Daraz app Site*********
+2021-01-20 17:35:31,328 - BullhornTest -INFO - ******** Hitting Daraz app Site*********
+2021-01-25 10:38:36,864 - BullhornTest -INFO - ******** Hitting Daraz app Site*********
+2021-01-25 10:42:33,078 - BullhornTest -INFO - ******** Hitting Daraz app Site*********
+2021-01-25 11:40:01,462 - BullhornTest -INFO - ******** Hitting Daraz app Site*********
+2021-01-26 16:34:31,129 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 17:40:13,425 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 17:42:23,782 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:19:06,794 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:21:23,657 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:30:19,893 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:38:55,842 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:40:07,791 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:41:05,035 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:44:01,713 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 18:46:44,827 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:14:34,432 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:21:38,344 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:28:37,734 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:36:03,858 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:38:51,220 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:46:33,009 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-26 19:49:37,965 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-27 23:46:30,376 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-27 23:47:13,646 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:02:31,289 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:04:52,229 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:08:07,928 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:11:13,637 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:13:31,294 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:14:22,937 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:18:09,990 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:20:31,502 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:24:58,404 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:26:20,237 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:27:35,612 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:30:24,945 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:32:29,610 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:41:41,860 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:46:58,082 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:49:25,130 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:53:31,048 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:57:38,096 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 00:58:38,420 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:01:59,501 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:03:55,508 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:05:52,084 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:08:21,958 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:09:20,927 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:34:09,447 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:36:03,612 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:37:48,545 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:41:14,530 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:47:33,625 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:49:07,339 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:50:25,015 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 01:53:01,334 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 13:58:10,159 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 14:20:14,807 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 14:23:03,720 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 14:38:37,556 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 14:45:21,928 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 14:48:07,300 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 15:03:11,874 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 15:30:20,825 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 15:45:24,388 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 15:51:59,489 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 17:44:08,464 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 17:49:11,849 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 17:55:10,053 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 17:59:03,788 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 18:06:08,814 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 18:10:42,719 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-28 23:58:48,420 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:14:29,116 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:17:44,495 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:20:09,259 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:24:42,377 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:27:44,059 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:29:58,677 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:32:23,480 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 00:40:57,295 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 15:25:52,095 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 17:02:29,387 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 17:09:35,339 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 17:13:41,903 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 17:18:56,760 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-29 17:22:45,978 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-31 14:09:40,342 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-31 16:59:44,663 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-31 17:33:20,052 - BullhornTest -INFO - ******** Launching Browser*********
+2021-01-31 17:34:03,581 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 16:21:06,419 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 16:25:09,628 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 16:28:47,991 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 16:36:20,505 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 16:56:20,887 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 18:15:45,513 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 21:08:08,726 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 22:53:44,480 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 23:02:07,865 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 23:43:37,270 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 23:47:56,711 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-02 23:59:30,567 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 00:04:05,755 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 00:05:00,889 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 00:26:22,095 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 00:37:50,879 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:02:10,673 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:05:41,643 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:10:52,660 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:17:06,433 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:40:27,367 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:41:33,444 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 01:50:28,978 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:04:42,944 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:07:13,254 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:13:25,067 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:15:54,259 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:22:55,311 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:25:39,883 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:29:23,603 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:31:49,489 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:34:58,456 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:37:26,151 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:42:41,526 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:45:10,037 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:47:21,693 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 02:49:47,381 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 17:51:59,659 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 17:52:32,701 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 17:56:29,912 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 18:05:45,986 - BullhornTest -INFO - ******** Launching Browser*********
+2021-02-03 18:08:22,386 - BullhornTest -INFO - ******** Launching Browser*********

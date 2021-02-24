@@ -1,0 +1,149 @@
+2020-11-20 11:30:33,013 [main] INFO BullhornTest - ******** opening homepage *********
+2020-11-20 11:30:43,387 [main] INFO BullhornTest - ******** homepage Opened *********
+2020-11-20 11:30:44,282 [main] INFO BullhornTest - ******** Chapter1 Clicked *********
+2020-11-20 11:30:44,286 [main] INFO BullhornTest - ******** Verifying Text present *********
+2020-11-20 11:30:44,810 [main] INFO BullhornTest - ******** Back to Homepage *********
+2020-11-20 11:35:01,559 [main] INFO BullhornTest - ******** opening homepage *********
+2020-11-20 11:35:10,856 [main] INFO BullhornTest - ******** homepage Opened *********
+2020-11-20 11:35:11,868 [main] INFO BullhornTest - ******** Chapter1 Clicked *********
+2020-11-20 11:35:11,870 [main] INFO BullhornTest - ******** Verifying Text present *********
+2020-11-20 11:35:12,435 [main] INFO BullhornTest - ******** Back to Homepage *********
+2020-11-20 11:43:39,940 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** opening homepage *********
+2020-11-20 11:43:49,206 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** homepage Opened *********
+2020-11-20 11:43:50,108 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Chapter1 Clicked *********
+2020-11-20 11:43:50,111 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Verifying Text present *********
+2020-11-20 11:43:50,638 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Back to Homepage *********
+2021-01-20 17:34:28,626 [main] INFO BullhornTest - ******** Hitting Daraz app Site*********
+2021-01-20 17:35:31,328 [main] INFO BullhornTest - ******** Hitting Daraz app Site*********
+2021-01-25 10:38:36,864 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Hitting Daraz app Site*********
+2021-01-25 10:42:33,078 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Hitting Daraz app Site*********
+2021-01-25 11:40:01,462 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Hitting Daraz app Site*********
+2021-01-26 16:34:31,129 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 17:40:13,425 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 17:42:23,782 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:19:06,794 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:21:23,657 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:30:19,893 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:38:55,842 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:40:07,791 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:41:05,035 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:44:01,713 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 18:46:44,827 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:14:34,432 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:21:38,344 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:28:37,734 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:36:03,858 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:38:51,220 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:46:33,009 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-26 19:49:37,965 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-27 23:46:30,376 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-27 23:47:13,646 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:02:31,289 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:04:52,229 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:08:07,928 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:11:13,637 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:13:31,294 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:14:22,937 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:18:09,990 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:20:31,502 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:24:58,404 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:26:20,237 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:27:35,612 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:30:24,945 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:32:29,610 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:41:41,860 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:46:58,082 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:49:25,130 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:53:31,048 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:57:38,096 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 00:58:38,420 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:01:59,501 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:03:55,508 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:05:52,084 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:08:21,958 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:09:20,927 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:34:09,447 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:36:03,612 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:37:48,545 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:41:14,530 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:47:33,625 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:49:07,339 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:50:25,015 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 01:53:01,334 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 13:58:10,159 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 14:20:14,807 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 14:23:03,720 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 14:38:37,556 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 14:45:21,928 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 14:48:07,300 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 15:03:11,874 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 15:30:20,825 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 15:45:24,388 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 15:51:59,489 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 17:44:08,464 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 17:49:11,849 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 17:55:10,053 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 17:59:03,788 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 18:06:08,814 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 18:10:42,719 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-28 23:58:48,420 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:14:29,116 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:17:44,495 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:20:09,259 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:24:42,377 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:27:44,059 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:29:58,677 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:32:23,480 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 00:40:57,295 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 15:25:52,095 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 17:02:29,387 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 17:09:35,339 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 17:13:41,903 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 17:18:56,760 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-29 17:22:45,978 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-31 14:09:40,342 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-31 16:59:44,663 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-31 17:33:20,052 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-01-31 17:34:03,581 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 16:21:06,419 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 16:25:09,628 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 16:28:47,991 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 16:36:20,505 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 16:56:20,887 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 18:15:45,513 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 21:08:08,726 [main] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 22:53:44,480 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 23:02:07,865 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 23:43:37,270 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 23:47:56,711 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-02 23:59:30,567 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 00:04:05,755 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 00:05:00,889 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 00:26:22,095 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 00:37:50,879 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:02:10,673 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:05:41,643 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:10:52,660 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:17:06,433 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:40:27,367 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:41:33,444 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 01:50:28,978 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:04:42,944 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:07:13,254 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:13:25,067 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:15:54,259 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:22:55,311 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:25:39,883 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:29:23,603 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:31:49,489 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:34:58,456 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:37:26,151 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:42:41,526 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:45:10,037 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:47:21,693 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 02:49:47,381 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 17:51:59,659 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 17:52:32,701 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 17:56:29,912 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 18:05:45,986 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
+2021-02-03 18:08:22,386 [TestNG-test=Run All Tests-1] INFO BullhornTest - ******** Launching Browser*********
